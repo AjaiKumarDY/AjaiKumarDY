@@ -1,120 +1,145 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!-- SYSTEM BANNER -->
-<!-- ============================================================ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=INITIALIZING+AJAI_KUMAR.EXE...;FULL-STACK+SYSTEMS+ARCHITECT;NEXT.JS+%7C+TYPESCRIPT+%7C+SUPABASE;STATUS%3A+ONLINE+%E2%9C%93" alt="Typing SVG" />
-
-```ansi
-╔══════════════════════════════════════════════════════════════════╗
-║  ROOT ACCESS GRANTED                                              ║
-║  USER: Ajai Kumar D Y                                             ║
-║  ROLE: Full-Stack Developer // UI-UX Systems Architect             ║
-║  CLEARANCE: ★★★★☆ (High-Performance Web Applications)              ║
-╚══════════════════════════════════════════════════════════════════╝
 ```
+        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        █                                             █
+        █        ╲╲╲   W A Y N E   S Y S   ╱╱╱        █
+        █       ╲╲╲╲╲  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ╱╱╱╱╱          █
+        █      ╲╲╲╲╲╲╲▐░░░░░░░░░░░░░▌╱╱╱╱╱╱╱           █
+        █       ╲╲╲╲╲  ▀▀▀▀▀▀▀▀▀▀▀▀▀  ╱╱╱╱╱            █
+        █        ╲╲╲       ◆ ◆ ◆       ╱╱╱             █
+        █           T A C T I C A L   M A I N F R A M E █
+        █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=ACCESSING+MAINFRAME...+ACCESS+GRANTED;IDENT%3A+AJAI_KUMAR_D_Y;FULL-STACK+ENGINEER+%2F%2F+SYSTEM+ARCHITECT;ENCRYPTION%3A+AES-256+%2F%2F+SECURE_LINE+ESTABLISHED" alt="Typing SVG" />
+
+<br>
+
+`STATUS: ACTIVE` &nbsp;•&nbsp; `SECURE_LINE: ENCRYPTED` &nbsp;•&nbsp; `IDENT: AJAI_KUMAR_D_Y` &nbsp;•&nbsp; `CLEARANCE: LEVEL_4`
+
+![](https://img.shields.io/badge/-‎-000000?style=flat-square&height=2)
 
 </div>
 
 <br>
 
-## `>_` 01 — IDENTITY.LOG
+## `//` MISSION OVERVIEW
 
-```yaml
-handle:        Ajai Kumar D Y
-designation:   Full-Stack Developer
-specialty:     High-Performance Web Apps × Clean UI/UX Architecture
-philosophy:    "Ship fast. Ship clean. Ship scalable."
-current_focus:
-  - Advanced Computer Science Fundamentals
-  - Algorithmic Optimization
-  - System Design Paradigms
-status:        [ ACTIVELY COMPILING KNOWLEDGE... ████████░░ 82% ]
+<table>
+<tr>
+<td width="70%" valign="top">
+
+```diff
++ FIELD REPORT — ENGINEERING PHILOSOPHY
+---------------------------------------------------
+Full-Stack Developer operating at the intersection
+of performance engineering and precision UI/UX
+design. Every system is built the way Wayne Tech
+builds hardware — over-engineered on purpose,
+invisible in execution, and unshakeable under load.
+
+No wasted motion. No fragile abstractions.
+Just clean architecture, fast interfaces, and
+systems that hold up when it matters most.
 ```
+
+</td>
+<td width="30%" valign="top">
+
+**◆ CORE DIRECTIVES**
+
+`▸` Algorithmic Optimization
+`▸` System Design Paradigms
+`▸` Advanced CS Fundamentals
+`▸` Data Structures @ Depth
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## `>_` 02 — TECH_STACK.SYS
+## `//` UTILITY BELT — TECH ARSENAL
 
-<div align="center">
+**◆ TACTICAL FRONTEND**
 
-**// CORE FRAMEWORKS**
+<img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=FFD700" />
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
+**◆ RECON & DESIGN DIVISION**
 
-**// DESIGN & PROTOTYPING**
+<img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=FFD700" />
 
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0d1117" />
+**◆ MAINFRAME ENGINES (BACKEND / DATA)**
 
-**// BACKEND & DATA LAYER**
+<img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFD700" />
 
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0d1117" />
+**◆ DEPLOYMENT & LOGISTICS GRID**
 
-**// DEPLOYMENT & INFRASTRUCTURE**
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=C6F135&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7&labelColor=0d1117" />
-
-</div>
+<img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Railway-121212?style=for-the-badge&logo=railway&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Render-121212?style=for-the-badge&logo=render&logoColor=FFD700" />
 
 <br>
 
-## `>_` 03 — DEPLOYED_SYSTEMS.DIR
+## `//` ACTIVE OPERATIONS — DEPLOYED PROJECTS
 
 ```
-root@ajai-dev:~/projects$ tree --active
+root@wayne-mainframe:~/operations$ ./status_report.sh --active
 
-.
-├── 🛰️  NAVGUARD/
-│   ├── type: "GPS Navigation & Road-Status Analytics Engine"
-│   ├── origin: "Built under hackathon deployment window"
-│   ├── stack: [Next.js, TypeScript, Supabase, Maps API]
-│   └── status: ✅ OPERATIONAL
-│
-├── 🎬  ANIMELOG/
-│   ├── type: "Cinematic Media Cataloging Engine"
-│   ├── features: ["Poster-grid rendering", "Advanced tracking metrics"]
-│   ├── stack: [Next.js, TypeScript, Tailwind, Firebase]
-│   └── status: ✅ OPERATIONAL
-│
-└── 🎲  GRID_GAMES/ (Modular Game Architectures)
-    ├── modules:
-    │   ├── dice-protocol/      → "Dice-based board game engine"
-    │   └── hidden-role.sys/    → "Social deduction game mechanics"
-    ├── stack: [TypeScript, Next.js, Realtime DB]
-    └── status: ✅ OPERATIONAL
+┌─ OPERATION 001 ─────────────────────────────────────────────┐
+│ CODENAME:  PROJECT_NAVGUARD                                 │
+│ CLASS:     GPS Navigation & Road-Status Analytics Engine    │
+│ ORIGIN:    Hackathon Deployment — Rapid Build Window         │
+│ STACK:     Next.js // TypeScript // Supabase // Maps API    │
+│ STATUS:    ✅ OPERATIONAL                                    │
+└───────────────────────────────────────────────────────────┘
 
-3 directories, systems nominal.
+┌─ OPERATION 002 ─────────────────────────────────────────────┐
+│ CODENAME:  PROJECT_ANIME_LOG                                │
+│ CLASS:     High-Fidelity Media Cataloging System             │
+│ FEATURES:  Cinematic visual layouts, engagement analytics    │
+│ STACK:     Next.js // TypeScript // Tailwind // Firebase     │
+│ STATUS:    ✅ OPERATIONAL                                    │
+└───────────────────────────────────────────────────────────┘
+
+┌─ OPERATION 003 ─────────────────────────────────────────────┐
+│ CODENAME:  MODULAR_GRID // PLATFORM_GAMES                    │
+│ CLASS:     High-Performance Web Game Architectures            │
+│ MODULES:   dice-mechanics.sys // hidden-role-deduction.sys    │
+│ STACK:     TypeScript // Next.js // Realtime Sync             │
+│ STATUS:    ✅ OPERATIONAL                                    │
+└───────────────────────────────────────────────────────────┘
+
+3 operations active. All systems nominal.
 ```
 
-<table align="center">
+<table>
 <tr>
 <td width="33%" valign="top">
 
-### 🛰️ NAVGUARD
-GPS-tracked navigation platform delivering real-time road status analytics. Engineered under hackathon constraints for rapid, reliable deployment.
+### ◆ PROJECT_NAVGUARD
+GPS-tracked navigation platform delivering real-time road-status structural analytics, engineered under hackathon time constraints without cutting architectural corners.
 
 `#geolocation` `#realtime-data` `#hackathon-build`
 
 </td>
 <td width="33%" valign="top">
 
-### 🎬 AnimeLog
-Media cataloging engine with cinematic poster-grid layouts and deep tracking metrics for a premium browsing experience.
+### ◆ PROJECT_ANIME_LOG
+Media cataloging system with cinematic, poster-driven visual layouts and deep user-engagement tracking metrics.
 
 `#media-engine` `#ui-architecture` `#data-viz`
 
 </td>
 <td width="33%" valign="top">
 
-### 🎲 Grid Games
-Modular, high-performance web game architectures — from dice-based board games to hidden-role social deduction systems.
+### ◆ MODULAR_GRID
+Modular, high-performance browser game architectures — dice-based board mechanics and hidden-role social deduction systems built for scale.
 
 `#game-architecture` `#modular-systems` `#realtime`
 
@@ -124,36 +149,36 @@ Modular, high-performance web game architectures — from dice-based board games
 
 <br>
 
-## `>_` 04 — TELEMETRY.DASH
+## `//` SYSTEM DIAGNOSTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=E8E8E8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=E8E8E8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaiKumarDY&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=FF2079&currStreakLabel=00F0FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaiKumarDY&theme=tokyonight&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaiKumarDY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=FF2079&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaiKumarDY&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FFFFFF" />
 
 </div>
 
 <br>
 
-## `>_` 05 — CONTACT.JSON
+## `//` ACCESS PROTOCOLS — SECURE CONTACT
 
 ```json
 {
-  "connection_protocol": {
-    "developer": "Ajai Kumar D Y",
-    "role": "Full-Stack Developer",
+  "wayne_sys_directory": {
+    "ident": "AJAI_KUMAR_D_Y",
+    "role": "Full-Stack Developer // System Architect",
     "channels": {
-      "github":   "https://github.com/AjaiKumarDY",
-      "linkedin": "https://linkedin.com/in/YOUR_LINKEDIN_HANDLE",
-      "email":    "your.email@example.com",
+      "github":    "https://github.com/AjaiKumarDY",
+      "linkedin":  "https://linkedin.com/in/YOUR_LINKEDIN_HANDLE",
+      "leetcode":  "https://leetcode.com/YOUR_LEETCODE_HANDLE",
       "portfolio": "https://your-portfolio-domain.com"
     },
-    "response_time": "< 24h",
-    "status": "OPEN_TO_COLLABORATION"
+    "response_protocol": "< 24h",
+    "clearance_status": "OPEN_TO_COLLABORATION"
   }
 }
 ```
@@ -162,11 +187,11 @@ Modular, high-performance web game architectures — from dice-based board games
 
 <div align="center">
 
-```ansi
-[SYSTEM]: End of transmission. Connection remains open.
-[SYSTEM]: Thank you for accessing this profile. // ⌁ Ajai Kumar D Y
+```
+[MAINFRAME]: Transmission ends. Secure line remains open.
+[MAINFRAME]: — A. Kumar D Y, standing by.
 ```
 
-<img src="https://komarev.com/ghpvc/?username=AjaiKumarDY&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AjaiKumarDY&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" />
 
 </div>
