@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  <!-- Urahara Walking Banner GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFvZXVudnd1ZXJtcnAwOHFocW1vOXRiaWNsc3Nmdmd5cnRnbWZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2Gyf2I8O0m7kY/giphy.gif" alt="Kisuke Urahara Walking" width="100%" height="280px" style="object-fit: cover;" />
+  <!-- 💡 [ANIMATION ADDED BELOW] Urahara Walking GIF -->
+  <img src="https://media.giphy.com/media/d1E2Gyf2I8O0m7kY/giphy.gif" alt="Kisuke Urahara Walking Animation" width="100%" height="280px" style="object-fit: cover; border-bottom: 2px solid #00FF66;" />
 
   <br/><br/>
 
