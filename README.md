@@ -2,9 +2,10 @@
 
 <div align="center">
 
-  <!-- Miniature Urahara Walking GIF directly hosted in your repo -->
-  <img src="urahara-walk.gif" alt="Kisuke Urahara Walking" width="100%" height="240px" style="object-fit: cover; border-bottom: 3px solid #00FF66;" />
-
+ <div align="center">
+  <!-- Small, proportional miniature GIF -->
+  <img src="urahara-walk.gif" alt="Miniature Urahara Walking" width="120px" style="display: block; margin: 0 auto; object-fit: contain;" />
+</div>
   <br/><br/>
 
   <!-- Dynamic Typing Header -->
