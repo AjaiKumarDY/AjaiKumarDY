@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  <!-- 💡 [ANIMATION ADDED BELOW] Urahara Walking GIF -->
-  <img src="https://media.giphy.com/media/d1E2Gyf2I8O0m7kY/giphy.gif" alt="Kisuke Urahara Walking Animation" width="100%" height="280px" style="object-fit: cover; border-bottom: 2px solid #00FF66;" />
+  <!-- Urahara Walking GIF (Direct GIF Link) -->
+  <img src="https://media1.tenor.com/m/8n5vOnEw2sAAAAAC/bleach-kisuke-urahara.gif" alt="Kisuke Urahara Walking Animation" width="100%" height="280px" style="object-fit: cover; border-bottom: 2px solid #00FF66;" />
 
   <br/><br/>
 
@@ -47,3 +47,59 @@
 ---
 
 ## ⛩️ Classified Soul Society Archives (Featured Projects)
+
+   _________________________________________________________
+  /                                                         \
+ |   [01] AnimeLog ── Cinematic Tracker & Anime Hub          |
+ |        Status: ACTIVE | Reiatsu Level: Overwhelming      |
+ |                                                          |
+ |   [02] Navguard ── Web Protection & Navigation Matrix    |
+ |        Status: ACTIVE | Security Seal: Unbroken          |
+  \_________________________________________________________/
+
+<details>
+  <summary>🔍 <strong>Click to Inspect Research Data (Project Details)</strong></summary>
+  <br/>
+
+  - **🎬 AnimeLog**: Built with Next.js & Tailwind CSS. Designed for cinematic anime tracking and log management.
+  - **🧭 Navguard**: Advanced web navigation and safety layer application.
+</details>
+
+---
+
+## ⚡ Spiritual Power Analysis (GitHub Combat Stats)
+
+<div align="center">
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaiKumarDY&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=DC2626&currStreakLabel=00FF66" alt="GitHub Streak" width="49%" />
+
+  <!-- Language Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" width="48%" />
+
+  <br/><br/>
+
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&icon_color=00FF66" alt="Ajai's Combat Stats" width="80%" />
+
+</div>
+
+---
+
+## ⚔️ Espada Rank & Reiatsu Growth (Contribution Graph)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaiKumarDY&theme=react-dark&bg_color=0D1117&color=00FF66&line=DC2626&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://media.tenor.com/bC8vJjV1zUIAAAAC/urahara-kisuke-bleach.gif" width="160px" alt="Urahara Hat Adjustment GIF" />
+
+  <br/><br/>
+
+  <sub>"Nothin' wrong with taking the safe route, but if you only walk on safe paths, you'll never see what's past the horizon."</sub>
+
+</div>
