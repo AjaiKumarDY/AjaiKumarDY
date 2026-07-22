@@ -2,9 +2,8 @@
 
 <div align="center">
 
- <div align="center">
-  <!-- Small, proportional miniature GIF -->
-  <img src="urahara-walk.gif" alt="Miniature Urahara Walking" width="120px" style="display: block; margin: 0 auto; object-fit: contain;" />
+<div align="center" style="width: 100%; background-color: #0D1117; padding: 25px 0; border-bottom: 2px solid #00FF66; border-radius: 8px;">
+  <img src="urahara-walk.gif" alt="Urahara Walking" height="110px" style="display: inline-block; vertical-align: middle;" />
 </div>
   <br/><br/>
 
