@@ -1,197 +1,74 @@
+# ⚔️ Welcome to the Soul Society | AjaiKumarDY ⚔️
+
 <div align="center">
 
-```
-        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        █                                             █
-        █        ╲╲╲   W A Y N E   S Y S   ╱╱╱        █
-        █       ╲╲╲╲╲  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ╱╱╱╱╱          █
-        █      ╲╲╲╲╲╲╲▐░░░░░░░░░░░░░▌╱╱╱╱╱╱╱           █
-        █       ╲╲╲╲╲  ▀▀▀▀▀▀▀▀▀▀▀▀▀  ╱╱╱╱╱            █
-        █        ╲╲╲       ◆ ◆ ◆       ╱╱╱             █
-        █           T A C T I C A L   M A I N F R A M E █
-        █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
+  <!-- Header Banner Gif/Image -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A2bWR4OGN0ZjBpaXZ3bHFnM3Zsb3BsbWlsMmRkZHNpMXJ1eGt6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8N4Xl4e8k48f4/giphy.gif" alt="Bleach Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=ACCESSING+MAINFRAME...+ACCESS+GRANTED;IDENT%3A+AJAI_KUMAR_D_Y;FULL-STACK+ENGINEER+%2F%2F+SYSTEM+ARCHITECT;ENCRYPTION%3A+AES-256+%2F%2F+SECURE_LINE+ESTABLISHED" alt="Typing SVG" />
+  <h1>"Bankai... 卍解"</h1>
 
-<br>
+  <p><strong>Full-Stack Developer | Anime Enthusiast & AMV Creator</strong></p>
 
-`STATUS: ACTIVE` &nbsp;•&nbsp; `SECURE_LINE: ENCRYPTED` &nbsp;•&nbsp; `IDENT: AJAI_KUMAR_D_Y` &nbsp;•&nbsp; `CLEARANCE: LEVEL_4`
-
-![](https://img.shields.io/badge/-‎-000000?style=flat-square&height=2)
+  <!-- Badges -->
+  <a href="https://github.com/AjaiKumarDY">
+    <img src="https://img.shields.io/badge/Reiatsu-Overwhelming-black?style=for-the-badge&logo=github&color=000000" />
+  </a>
+  <a href="https://github.com/AjaiKumarDY">
+    <img src="https://img.shields.io/badge/Squad-Substitute%20Shinigami-red?style=for-the-badge&color=dc2626" />
+  </a>
 
 </div>
 
-<br>
+---
 
-## `//` MISSION OVERVIEW
+## ⚡ Spiritual Power & Abilities (Tech Stack)
 
-<table>
-<tr>
-<td width="70%" valign="top">
+### 🗡️ Primary Zanpakuto (Frontend Mastery)
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-```diff
-+ FIELD REPORT — ENGINEERING PHILOSOPHY
----------------------------------------------------
-Full-Stack Developer operating at the intersection
-of performance engineering and precision UI/UX
-design. Every system is built the way Wayne Tech
-builds hardware — over-engineered on purpose,
-invisible in execution, and unshakeable under load.
+### 🌀 Flash Step & Tools (Workflow & Tech)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-No wasted motion. No fragile abstractions.
-Just clean architecture, fast interfaces, and
-systems that hold up when it matters most.
-```
+---
 
-</td>
-<td width="30%" valign="top">
+## ⛩️ Current Missions (Featured Projects)
 
-**◆ CORE DIRECTIVES**
+| Mission | Description | Status |
+| :--- | :--- | :---: |
+| 🎬 **AnimeLog** | Cinematic tracker for anime enthusiasts | `ACTIVE` |
+| 🧭 **Navguard** | Web-based navigation & protection application | `ACTIVE` |
 
-`▸` Algorithmic Optimization
-`▸` System Design Paradigms
-`▸` Advanced CS Fundamentals
-`▸` Data Structures @ Depth
+---
 
-</td>
-</tr>
-</table>
-
-<br>
-
-## `//` UTILITY BELT — TECH ARSENAL
-
-**◆ TACTICAL FRONTEND**
-
-<img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=FFD700" />
-
-**◆ RECON & DESIGN DIVISION**
-
-<img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=FFD700" />
-
-**◆ MAINFRAME ENGINES (BACKEND / DATA)**
-
-<img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFD700" />
-
-**◆ DEPLOYMENT & LOGISTICS GRID**
-
-<img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Railway-121212?style=for-the-badge&logo=railway&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Render-121212?style=for-the-badge&logo=render&logoColor=FFD700" />
-
-<br>
-
-## `//` ACTIVE OPERATIONS — DEPLOYED PROJECTS
-
-```
-root@wayne-mainframe:~/operations$ ./status_report.sh --active
-
-┌─ OPERATION 001 ─────────────────────────────────────────────┐
-│ CODENAME:  PROJECT_NAVGUARD                                 │
-│ CLASS:     GPS Navigation & Road-Status Analytics Engine    │
-│ ORIGIN:    Hackathon Deployment — Rapid Build Window         │
-│ STACK:     Next.js // TypeScript // Supabase // Maps API    │
-│ STATUS:    ✅ OPERATIONAL                                    │
-└───────────────────────────────────────────────────────────┘
-
-┌─ OPERATION 002 ─────────────────────────────────────────────┐
-│ CODENAME:  PROJECT_ANIME_LOG                                │
-│ CLASS:     High-Fidelity Media Cataloging System             │
-│ FEATURES:  Cinematic visual layouts, engagement analytics    │
-│ STACK:     Next.js // TypeScript // Tailwind // Firebase     │
-│ STATUS:    ✅ OPERATIONAL                                    │
-└───────────────────────────────────────────────────────────┘
-
-┌─ OPERATION 003 ─────────────────────────────────────────────┐
-│ CODENAME:  MODULAR_GRID // PLATFORM_GAMES                    │
-│ CLASS:     High-Performance Web Game Architectures            │
-│ MODULES:   dice-mechanics.sys // hidden-role-deduction.sys    │
-│ STACK:     TypeScript // Next.js // Realtime Sync             │
-│ STATUS:    ✅ OPERATIONAL                                    │
-└───────────────────────────────────────────────────────────┘
-
-3 operations active. All systems nominal.
-```
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ◆ PROJECT_NAVGUARD
-GPS-tracked navigation platform delivering real-time road-status structural analytics, engineered under hackathon time constraints without cutting architectural corners.
-
-`#geolocation` `#realtime-data` `#hackathon-build`
-
-</td>
-<td width="33%" valign="top">
-
-### ◆ PROJECT_ANIME_LOG
-Media cataloging system with cinematic, poster-driven visual layouts and deep user-engagement tracking metrics.
-
-`#media-engine` `#ui-architecture` `#data-viz`
-
-</td>
-<td width="33%" valign="top">
-
-### ◆ MODULAR_GRID
-Modular, high-performance browser game architectures — dice-based board mechanics and hidden-role social deduction systems built for scale.
-
-`#game-architecture` `#modular-systems` `#realtime`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `//` SYSTEM DIAGNOSTICS
+## 📊 Soul Reaper Combat Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=E8E8E8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=E8E8E8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaiKumarDY&theme=tokyonight&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaiKumarDY&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FFFFFF" />
+  <!-- Stats Card (Bleach Dark Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=dc2626&text_color=ffffff&icon_color=dc2626" alt="Ajai's GitHub Stats" height="175" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=dc2626&text_color=ffffff" alt="Top Languages" height="175" />
 
 </div>
 
-<br>
-
-## `//` ACCESS PROTOCOLS — SECURE CONTACT
-
-```json
-{
-  "wayne_sys_directory": {
-    "ident": "AJAI_KUMAR_D_Y",
-    "role": "Full-Stack Developer // System Architect",
-    "channels": {
-      "github":    "https://github.com/AjaiKumarDY",
-      "linkedin":  "https://linkedin.com/in/YOUR_LINKEDIN_HANDLE",
-      "leetcode":  "https://leetcode.com/YOUR_LEETCODE_HANDLE",
-      "portfolio": "https://your-portfolio-domain.com"
-    },
-    "response_protocol": "< 24h",
-    "clearance_status": "OPEN_TO_COLLABORATION"
-  }
-}
-```
-
-<br>
+---
 
 <div align="center">
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=If+fate+is+a+millstone%2C+we+are+the+grindstones.;Dev+by+day%2C+Editor+by+night.;Unleash+your+Bankai!" alt="Typing SVG" />
+  <br />
 
-```
-[MAINFRAME]: Transmission ends. Secure line remains open.
-[MAINFRAME]: — A. Kumar D Y, standing by.
-```
-
-<img src="https://komarev.com/ghpvc/?username=AjaiKumarDY&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" />
-
+  <sub>"If fate is a millstone, then we are the grist. There is nothing we can do. So I wish for strength. If I cannot protect them from the wheel, then give me a strong blade, and enough strength to shatter fate."</sub>
 </div>
