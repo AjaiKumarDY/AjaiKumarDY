@@ -1,74 +1,49 @@
-# ⚔️ Welcome to the Soul Society | AjaiKumarDY ⚔️
+# 🎴 The Candy Shop | AjaiKumarDY 🗡️
 
 <div align="center">
 
-  <!-- Header Banner Gif/Image -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A2bWR4OGN0ZjBpaXZ3bHFnM3Zsb3BsbWlsMmRkZHNpMXJ1eGt6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8N4Xl4e8k48f4/giphy.gif" alt="Bleach Banner" width="100%" />
+  <!-- Urahara Walking Banner GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFvZXVudnd1ZXJtcnAwOHFocW1vOXRiaWNsc3Nmdmd5cnRnbWZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2Gyf2I8O0m7kY/giphy.gif" alt="Kisuke Urahara Walking" width="100%" height="280px" style="object-fit: cover;" />
 
-  <h1>"Bankai... 卍解"</h1>
+  <br/><br/>
 
-  <p><strong>Full-Stack Developer | Anime Enthusiast & AMV Creator</strong></p>
+  <!-- Dynamic Typing Header -->
+  <a href="https://github.com/AjaiKumarDY">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Welcome+to+Urahara+Shop...;Former+Captain+of+Squad+12;Mastermind+%26+Full-Stack+Developer;AMV+Editor+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <p><em>"There is nothing in this world that is truly perfect. That's why ordinary people admire perfection and seek to obtain it." — Kisuke Urahara</em></p>
 
   <!-- Badges -->
-  <a href="https://github.com/AjaiKumarDY">
-    <img src="https://img.shields.io/badge/Reiatsu-Overwhelming-black?style=for-the-badge&logo=github&color=000000" />
-  </a>
-  <a href="https://github.com/AjaiKumarDY">
-    <img src="https://img.shields.io/badge/Squad-Substitute%20Shinigami-red?style=for-the-badge&color=dc2626" />
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Reiatsu_Class-Special_Threat_Designation-black?style=for-the-badge&logo=github&color=000000&labelColor=111827" />
+    <img src="https://img.shields.io/badge/Squad-12_Research_%26_Dev-00FF66?style=for-the-badge&color=00FF66&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Zanpakuto-Benihime_%E7%B4%85%E5%A7%AB-DC2626?style=for-the-badge&color=DC2626&labelColor=000000" />
+  </p>
 
 </div>
 
 ---
 
-## ⚡ Spiritual Power & Abilities (Tech Stack)
+## 🔬 Research & Development Laboratory (Tech Stack)
 
-### 🗡️ Primary Zanpakuto (Frontend Mastery)
+### 🗡️ Shikai Forms (Core Frontend Weapons)
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
-### 🌀 Flash Step & Tools (Workflow & Tech)
+### 🌀 Hado & Bakudo Spells (Development Tools & Gear)
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
 ---
 
-## ⛩️ Current Missions (Featured Projects)
-
-| Mission | Description | Status |
-| :--- | :--- | :---: |
-| 🎬 **AnimeLog** | Cinematic tracker for anime enthusiasts | `ACTIVE` |
-| 🧭 **Navguard** | Web-based navigation & protection application | `ACTIVE` |
-
----
-
-## 📊 Soul Reaper Combat Stats
-
-<div align="center">
-
-  <!-- Stats Card (Bleach Dark Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=dc2626&text_color=ffffff&icon_color=dc2626" alt="Ajai's GitHub Stats" height="175" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=dc2626&text_color=ffffff" alt="Top Languages" height="175" />
-
-</div>
-
----
-
-<div align="center">
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=If+fate+is+a+millstone%2C+we+are+the+grindstones.;Dev+by+day%2C+Editor+by+night.;Unleash+your+Bankai!" alt="Typing SVG" />
-  <br />
-
-  <sub>"If fate is a millstone, then we are the grist. There is nothing we can do. So I wish for strength. If I cannot protect them from the wheel, then give me a strong blade, and enough strength to shatter fate."</sub>
-</div>
+## ⛩️ Classified Soul Society Archives (Featured Projects)
