@@ -1,138 +1,101 @@
+# 🎴 The Soul Society Research & Development Institute | AjaiKumarDY 🗡️
+
 <div align="center">
 
-<img src="urahara-walk.gif" width="100%" alt="Urahara Kisuke Banner" />
+  <!-- Miniature Urahara Walking GIF directly hosted in your repo -->
+  <img src="urahara-walk.gif" alt="Kisuke Urahara Walking" width="100%" height="240px" style="object-fit: cover; border-bottom: 3px solid #00FF66;" />
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=38&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Urahara+Shoten+%7C+Underground+Lab;Squad+12+Research+%26+Development;AjaiKumarDY+%E2%80%94+Soul+Society+Engineer" alt="Typing SVG" />
-</h1>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/CAPTAIN-URAHARA_KISUKE-00FF66?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/DIVISION-12TH_SQUAD-DC2626?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/STATUS-VIZARD_MODE-00FF66?style=for-the-badge&labelColor=0D1117" />
+  <!-- Dynamic Typing Header -->
+  <a href="https://github.com/AjaiKumarDY">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Welcome+to+the+Urahara+Shop...;Former+Captain+of+Squad+12;Mastermind+%26+Full-Stack+Developer;AMV+Creator+%7C+Next.js+%26+Tailwind" alt="Typing SVG" />
+  </a>
+
+  <p><em>"There is nothing in this world that is truly perfect. That's why ordinary people admire perfection and seek to obtain it." — Kisuke Urahara</em></p>
+
+  <!-- Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Reiatsu_Level-Special_Threat_Class-black?style=for-the-badge&logo=github&color=000000&labelColor=111827" />
+    <img src="https://img.shields.io/badge/Squad-12_Research_%26_Dev-00FF66?style=for-the-badge&color=00FF66&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Zanpakuto-Benihime_%E7%B4%85%E5%A7%AB-DC2626?style=for-the-badge&color=DC2626&labelColor=000000" />
+  </p>
 
 </div>
 
-<br/>
+---
 
-## 木刀 &nbsp; SOUL SOCIETY DOSSIER
+## 🔬 Research & Development Arsenal (Tech Stack)
 
-```yaml
-shinigami:
-  name: "AjaiKumarDY"
-  division: "12th Squad — Research & Development"
-  role: "Full-Stack Developer / Zanpakuto Engineer"
-  bankai: "Next.js + React + Tailwind Kyoka Suigetsu"
-  current_mission: "Building AnimeLog & Navguard in the underground lab"
-  reiatsu_signature: ["#00FF66", "#DC2626", "#0D1117"]
-```
-
-<br/>
-
-## 卍解 &nbsp; ZANPAKUTO CAPABILITIES `// Core Tech Stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,git,vscode&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=DC2626" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=DC2626" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=DC2626" />
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66" />
-
-</div>
-
-<br/>
-
-## 法道 &nbsp; HADO & BAKUDO `// Tools of the Trade`
-
-> **Bakudo (Binding Arts — Dev Environment)**
-> `#01 Git` · `#02 VS Code` · `#03 npm/yarn` · `#04 ESLint` · `#05 Vercel`
-
-> **Hado (Destruction Arts — Build & Deploy)**
-> `#31 Shakkaho — Component Architecture` · `#63 Raikoho — CI/CD Pipelines` · `#90 Kurohitsugi — Production Deploys`
-
-<br/>
-
-## 卍 &nbsp; SOUL SOCIETY ARCHIVES `// Notable Projects`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img src="animelog-preview.gif" width="100%" alt="AnimeLog Preview"/>
-<h3 align="center">📼 AnimeLog</h3>
-<p align="center"><i>Cinematic Anime Tracker</i></p>
-<p align="center">A Soul Society archive for tracking watched arcs, ratings & cinematic anime logs.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-00FF66?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Tailwind-DC2626?style=flat-square&labelColor=0D1117" />
+### 🗡️ Primary Zanpakuto Capabilities (Frontend Mastery)
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
-<p align="center">
-<a href="https://github.com/AjaiKumarDY/AnimeLog"><img src="https://img.shields.io/badge/ENTER_ARCHIVE-00FF66?style=for-the-badge&labelColor=0D1117" /></a>
-</p>
-</td>
-<td width="50%">
-<img src="navguard-preview.gif" width="100%" alt="Navguard Preview"/>
-<h3 align="center">🧭 Navguard</h3>
-<p align="center"><i>Web Navigation App</i></p>
-<p align="center">A Kido-barrier styled navigation system guarding your route through the web.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-00FF66?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/JavaScript-DC2626?style=flat-square&labelColor=0D1117" />
-</p>
-<p align="center">
-<a href="https://github.com/AjaiKumarDY/Navguard"><img src="https://img.shields.io/badge/ENTER_ARCHIVE-DC2626?style=for-the-badge&labelColor=0D1117" /></a>
-</p>
-</td>
-</tr>
-</table>
 
-</div>
+### 🌀 Hado & Bakudo Tools (Development Environment)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+</p>
 
-<br/>
+---
 
-## 霊圧 &nbsp; REIATSU LEVEL `// GitHub Stats`
+## ⛩️ Classified Soul Society Archives (Featured Projects)
+
+   _________________________________________________________
+  /                                                         \
+ |   [01] AnimeLog ── Cinematic Tracker & Anime Hub          |
+ |        Status: ACTIVE | Reiatsu Level: Overwhelming      |
+ |                                                          |
+ |   [02] Navguard ── Web Protection & Navigation Matrix    |
+ |        Status: ACTIVE | Security Seal: Unbroken          |
+  \_________________________________________________________/
+
+<details>
+  <summary>🔍 <strong>Click to Inspect Research Data (Project Details)</strong></summary>
+  <br/>
+
+  - **🎬 AnimeLog**: Built with Next.js & Tailwind CSS for cinematic anime tracking.
+  - **🧭 Navguard**: Modern web navigation and safety platform.
+</details>
+
+---
+
+## ⚡ Spiritual Power Analysis (GitHub Combat Stats)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=DC2626&text_color=c9d1d9&ring_color=00FF66" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaiKumarDY&hide_border=true&background=0D1117&stroke=00FF66&ring=DC2626&fire=DC2626&currStreakLabel=00FF66&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaiKumarDY&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=DC2626&currStreakLabel=00FF66" alt="GitHub Streak" width="49%" />
 
-<br/>
+  <!-- Language Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarDY&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=c9d1d9&langs_count=8" width="49%" />
+  <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaiKumarDY&bg_color=0D1117&color=00FF66&line=DC2626&point=ffffff&area=true&hide_border=true&area_color=00FF66" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AjaiKumarDY&theme=darkhub&no-frame=true&row=1&margin-w=15&column=6" width="100%" />
-
-</div>
-
-<br/>
-
-## 影 &nbsp; SHADOW CONNECT `// Reach the Underground Lab`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/AjaiKumarDY"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" /></a>
-<a href="https://twitter.com/AjaiKumarDY"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=DC2626" /></a>
-<a href="mailto:ajaikumardy@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /></a>
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AjaiKumarDY&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&icon_color=00FF66" alt="Ajai's Combat Stats" width="80%" />
 
 </div>
 
-<br/>
+---
+
+## ⚔️ Espada Rank & Reiatsu Growth (Contribution Graph)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaiKumarDY&theme=react-dark&bg_color=0D1117&color=00FF66&line=DC2626&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=Even%20in%20the%20dark,%20Reiatsu%20finds%20a%20way&fontColor=00FF66&fontSize=18" width="100%"/>
-
-<sub>© Squad 12 R&D Division — "I'll take my leave. Come back safely." — Kisuke Urahara</sub>
+  <sub>"Nothin' wrong with taking the safe route, but if you only walk on safe paths, you'll never see what's past the horizon."</sub>
 
 </div>
